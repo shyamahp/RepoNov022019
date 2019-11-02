@@ -1,0 +1,4 @@
+com\employee\client\Employee.class
+com\employee\client\EmployeeServiceProxy.class
+com\employee\client\EmployeeClientController.class
+com\employee\client\EmployeeClientMain.class
